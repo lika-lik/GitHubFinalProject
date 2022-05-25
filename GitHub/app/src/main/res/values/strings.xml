@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">GitHub</string>
+    <string name="error">"Что-то пошло не так..."</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint" translatable="false">Android</string>
+    <string name="stare_rate" translatable="false">1345</string>
+    <string name="forks_rate" translatable="false">9866</string>
+    <string name="language">Язык:</string>
+    <string name="created_at">Создан:</string>
+    <string name="updated_at">Обновлен:</string>
+    <string name="enter_sth">Введите что-нибудь</string>
+</resources>

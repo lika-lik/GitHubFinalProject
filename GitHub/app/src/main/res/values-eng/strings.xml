@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">Looks like an error....</string>
+    <string name="search">Search</string>
+    <string name="language">Language:</string>
+    <string name="created_at">Created at:</string>
+    <string name="updated_at">Updated at:</string>
+    <string name="enter_sth">Enter something</string>
+</resources>
